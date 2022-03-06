@@ -3,7 +3,7 @@
   ## :alien: 2022-03-06 new repository 
   > **soyakimm** ✈️ 🌎
 - [x] **Working as a developer in an English-speaking country within 5 years** :tada:
-- [ ] **Let's do my best until then**
+- [ ] **Let's do my best until then** ❇️
   
  ![footer](https://capsule-render.vercel.app/api?section=footer&color=auto&height=180)
   
